@@ -1,0 +1,142 @@
+ html {
+    font-size:  62.5%; 
+ } 
+
+ body {
+    background: #BBBFF0;
+    font-family: 'Fira Sans', sans-serif;
+ }
+ section {
+    display: block;
+    background:#BBBFF0;
+    width: 100%;
+    padding: 2.0rem;
+ } 
+    
+ section nav { 
+    display: block;
+    float: left;
+    width: 35%;
+    background: #BBBFF0;
+ }
+ nav a {
+ text-decoration: none;
+ font-size: 2.0rem;
+ color: #022c50;
+ }
+ 
+ section article {
+    display: block;
+    float: left;
+    width: 65%;
+    background: #BBBFF0;
+    
+ }
+  .titulo{
+    padding: 4.rem;
+  }
+ .titulo2 {
+    font-size: 2.0rem;
+ }
+  .texto{
+    padding: 30px;
+  }
+  .numero {
+    position: relative;
+    left: 19px;
+  }
+    h1 {
+        font-size: 2.2rem;
+        color: #000305;
+        margin-bottom: 30px;
+        text-align: center;
+     
+
+ }
+ .rosalinda{
+    font-size: 3.0rem;
+    color: #022c50;
+ }
+  h2{
+       
+        font-size: 2rem;
+        color: #00060c;
+        margin-bottom: 20px;
+        padding-top: 30px;
+  }
+  h3{
+    font-size: 1.8rem;
+    color: #000a13;
+    margin-bottom: 20px;
+    padding-top: 10px;
+
+  }
+  h4 {
+    font-size: 1.8;
+    color: #00050a;
+    margin-bottom: 10px;
+    padding-top: 10px;
+  }
+  p {
+    margin-bottom: 10px;
+    line-height: 1.4;
+    color: #000;
+}
+
+ header {
+    
+    display: block;
+    width: 100%;
+    height: 180px;   
+ }
+    .footer {
+        display: block;
+       background:#9A9AB5;
+       padding: 1.5rem;
+      
+     
+    
+    }
+
+   .imagem1 {
+
+        background: #9A9AB5;
+        font-size: 4.0rem;
+        text-align: center;
+        color:  #516caf;
+        height: 200px;
+        padding: 2.0rem;
+        border-bottom: 1px solid #022c50;
+
+
+        
+        }
+        .footer1{
+            color: #000;
+            text-align: center;
+           
+        
+        }
+          img {
+           
+          }
+          .footer2{
+          position: relative;
+          top: 20px;
+          }
+          .interessado {
+            width: 96.8%;
+            padding: 20px;
+            font-size: 1.8rem;
+          }
+          .interessado2{
+            font-size: 1.4rem;
+          }
+         
+          footer small {
+            font-size: 80%;
+            display: block;
+          }
+          .preencher{
+            font-size: 1.4rem;
+          }
